@@ -10,12 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7ff06a8e455fd4a8fbf426411366a34c, type: 3}
-  m_Name: B1 Beginning
+  m_Name: B10 Switch
   m_EditorClassIdentifier: 
-  storyText: "Scenario #1:\nYou are a freshman and finals are just beginning. You
-    feel generally depressed and are unsure what to do about it.\n\nWhat specific
-    emotion do you think you are feeling?\n1. Sad.\n2. Unhappy.\n3. Nervous.\n4.
-    Stressed.\n5. Overwhelmed.\n6. Scared. \n7. Unsure. "
+  storyText: "What specific emotion do you think you are feeling during finals?\n1.
+    Sad.\n2. Unhappy.\n3. Nervous.\n4. Stressed.\n5. Overwhelmed.\n6. Scared. \n7.
+    Unsure. "
   nextStates:
   - {fileID: 11400000, guid: 922b6fc337da14d7d8f1ef111605d64f, type: 2}
   - {fileID: 11400000, guid: a79385ef11e07474aa8cc45cba60954d, type: 2}
@@ -23,5 +22,5 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 3bd9d39bfd4024c20b4ff6a954b9969b, type: 2}
   - {fileID: 11400000, guid: 086427b7ba0df441ab706c3360e5694e, type: 2}
   - {fileID: 11400000, guid: 9698a92d111d34028bca1b6ca815892a, type: 2}
-  - {fileID: 11400000, guid: a79385ef11e07474aa8cc45cba60954d, type: 2}
+  - {fileID: 11400000, guid: 381316489463a40bfb8f82ce00592f48, type: 2}
   quit: 0

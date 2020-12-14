@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ff06a8e455fd4a8fbf426411366a34c, type: 3}
+  m_Name: B6 Option 5 - Overwhelmed
+  m_EditorClassIdentifier: 
+  storyText: 'Feeling overwhelmed, you start planning out your time for the next
+    week, making sure that you have plenty of time to get everything done. As the
+    days pass and you finish the work that you had planned to finish, you feel less
+    overwhelmed, because even though you have a lot more work to go, you know that
+    you are on track.
+
+
+    How would you like to continue?
+
+    1. Identify a different
+    emotion.
+
+    2. Finish scenario. '
+  nextStates:
+  - {fileID: 11400000, guid: 894dfb4ef898c472db2720a0d441af38, type: 2}
+  - {fileID: 11400000, guid: ba9f6610a07504b47901b98655c106da, type: 2}
+  quit: 0

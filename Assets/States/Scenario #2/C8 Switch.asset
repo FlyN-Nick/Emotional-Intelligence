@@ -10,12 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7ff06a8e455fd4a8fbf426411366a34c, type: 3}
-  m_Name: C1 Beginning
+  m_Name: C8 Switch
   m_EditorClassIdentifier: 
-  storyText: "Scenario #2:\nIt's been an eternity in quarantine, and you are feeling
-    pretty depressed about your life at the moment. \n\nWhat specific emotion do
-    you think you are feeling?\n1. Sadness.\n2. Anger. \n3. Wistfulness.\n4. Indignation.\n5.
-    Despair."
+  storyText: "What specific emotion do you think you are feeling during quarantine?\n1.
+    Sadness.\n2. Anger. \n3. Wistfulness.\n4. Indignation.\n5. Despair."
   nextStates:
   - {fileID: 11400000, guid: 9a11760cdbae34c74b1b5381e264e2ec, type: 2}
   - {fileID: 11400000, guid: b0e1dc39244f1498a96acae55761f452, type: 2}

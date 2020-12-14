@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ff06a8e455fd4a8fbf426411366a34c, type: 3}
+  m_Name: B9 End
+  m_EditorClassIdentifier: 
+  storyText: 'So, what emotion(s) did you end up identifying? How did you address
+    the emotion you identified? How did the emotion(s) you chose to identify impact
+    your general wellbeing?
+
+
+    Ready for the next scenario?
+
+    1. Yes.
+
+    2.
+    No (identify a different emotion).
+
+    3. No (quit).'
+  nextStates:
+  - {fileID: 11400000, guid: c5b1734554c49461299edcc98cc50dc3, type: 2}
+  - {fileID: 11400000, guid: 894dfb4ef898c472db2720a0d441af38, type: 2}
+  - {fileID: 11400000, guid: 61cdbe4b7e4e34840837e97b26914eca, type: 2}
+  quit: 0
