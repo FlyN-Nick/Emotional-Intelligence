@@ -12,10 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ff06a8e455fd4a8fbf426411366a34c, type: 3}
   m_Name: X2 Quit
   m_EditorClassIdentifier: 
-  storyText: "Thanks for playing! \nAs you probably learned while playing, if you
-    identified a more specific emotion in the scenarios (higher emotional granularity),
-    you were better suited to address the emotion and generally improve your emotional
-    wellbeing. \nI hope you learned something new :).\n\nWould you like to play again?\n1.
-    Yes (menu).\n2. No (quit)."
+  storyText: 
   nextStates: []
   quit: 1

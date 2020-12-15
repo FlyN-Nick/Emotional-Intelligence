@@ -12,6 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ff06a8e455fd4a8fbf426411366a34c, type: 3}
   m_Name: D1 Beginning
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "Scenario #3:\nNicholas is making this game for his SOM unessay but
+    is very busy with finals...\nDue to stress he is having difficulty thinking of
+    other scenarios...\n\nAnd so, what do you think Nicholas did?\n1. Took a break
+    and tried again to think of new scenarios. \n2. Completely gave up and left his
+    SOM unessay unfinished.\n3. Switched to writing a conventional essay hoping that
+    it would be easier.\n4. Wrote this humorous final scenario."
+  nextStates:
+  - {fileID: 11400000, guid: cc04954ca8f444888a6438389c50baf5, type: 2}
+  - {fileID: 11400000, guid: a6185dc1bb1174f7da189404d240d516, type: 2}
+  - {fileID: 11400000, guid: 9ce4ef9df77ff4d63965ee2e84bb0ff2, type: 2}
+  - {fileID: 11400000, guid: 875950d6af83744f091915063c6d137c, type: 2}
   quit: 0

@@ -12,14 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ff06a8e455fd4a8fbf426411366a34c, type: 3}
   m_Name: C5 Option 4 - Indignation
   m_EditorClassIdentifier: 
-  storyText: '
-
-    How would you like to continue?
-
-    1. Identify a different
-    emotion.
-
-    2. Finish scenario. '
+  storyText: "Feeling indignant about being forced to always be at home, you decide
+    to discuss with your parents about letting you go out if you get frequently tested.
+    Your parents decide to let you hangout with your friends, which is better than
+    nothing. \n \nHow would you like to continue?\n1. Identify a different emotion.\n2.
+    Finish scenario. "
   nextStates:
   - {fileID: 11400000, guid: d4e45832dabb54e4caba94c449a4186e, type: 2}
   - {fileID: 11400000, guid: 0506d5f1515334b98a0f6433739ab51a, type: 2}

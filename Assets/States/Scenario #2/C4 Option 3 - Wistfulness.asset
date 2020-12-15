@@ -12,12 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ff06a8e455fd4a8fbf426411366a34c, type: 3}
   m_Name: C4 Option 3 - Wistfulness
   m_EditorClassIdentifier: 
-  storyText: '
+  storyText: 'Feeling wistful for life before quarantine, you decide to reach out
+    your friends more often. Although only talking online is not the best, it does
+    make you feel better.
+
 
     How would you like to continue?
 
-    1. Identify a different
-    emotion.
+    1. Identify
+    a different emotion.
 
     2. Finish scenario. '
   nextStates:

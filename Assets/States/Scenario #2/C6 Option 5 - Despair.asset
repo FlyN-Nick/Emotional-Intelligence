@@ -12,14 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ff06a8e455fd4a8fbf426411366a34c, type: 3}
   m_Name: C6 Option 5 - Despair
   m_EditorClassIdentifier: 
-  storyText: '
-
-    How would you like to continue?
-
-    1. Identify a different
-    emotion.
-
-    2. Finish scenario. '
+  storyText: "Feeling hopeless about when life will go back to normal, you decide
+    to research into the different promising vaccines, which gives you some hope.
+    \n\nHow would you like to continue?\n1. Identify a different emotion.\n2. Finish
+    scenario. "
   nextStates:
   - {fileID: 11400000, guid: d4e45832dabb54e4caba94c449a4186e, type: 2}
   - {fileID: 11400000, guid: 0506d5f1515334b98a0f6433739ab51a, type: 2}

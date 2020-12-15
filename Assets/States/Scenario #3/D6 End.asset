@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ff06a8e455fd4a8fbf426411366a34c, type: 3}
+  m_Name: D6 End
+  m_EditorClassIdentifier: 
+  storyText: "This scenario was quite different, but I genuinely was having difficulty
+    thinking of a final scenario and used humor to approach the problem. \n\n1. Continue."
+  nextStates:
+  - {fileID: 11400000, guid: 61cdbe4b7e4e34840837e97b26914eca, type: 2}
+  quit: 0

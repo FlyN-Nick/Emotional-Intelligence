@@ -21,7 +21,8 @@ MonoBehaviour:
 
     1. Begin.
 
-    2. Quit.'
+    2. Quit
+    .'
   nextStates:
   - {fileID: 11400000, guid: 472010d8cb15c4535986c7642037bf07, type: 2}
   - {fileID: 11400000, guid: 9114f46e26da14bfa97ea9cb3954ee12, type: 2}

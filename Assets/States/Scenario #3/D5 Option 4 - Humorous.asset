@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ff06a8e455fd4a8fbf426411366a34c, type: 3}
+  m_Name: D5 Option 4 - Humorous
+  m_EditorClassIdentifier: 
+  storyText: 'Ding ding ding, you''re correct (sorry Olivia)!
+
+
+    How would you
+    like to continue?
+
+    1. Assume Nicholas went down a different path.
+
+    2.
+    Finish scenario. '
+  nextStates:
+  - {fileID: 11400000, guid: 8ea5f9a08e4404b428aa36f89e62eac2, type: 2}
+  - {fileID: 11400000, guid: 752f21c9567fa4c239b1e5fc2df19afc, type: 2}
+  quit: 0

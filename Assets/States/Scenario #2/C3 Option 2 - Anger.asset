@@ -12,14 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ff06a8e455fd4a8fbf426411366a34c, type: 3}
   m_Name: C3 Option 2 - Anger
   m_EditorClassIdentifier: 
-  storyText: '
-
-    How would you like to continue?
-
-    1. Identify a different
-    emotion.
-
-    2. Finish scenario. '
+  storyText: "Feeling angry about being pent up at your house, you decide to go against
+    your parents' wishes and go hangout with your friends. When you get back they
+    are quite angry, and yall get in an argument, causing you to just get angrier...
+    \n\nHow would you like to continue?\n1. Identify a different emotion.\n2. Finish
+    scenario. "
   nextStates:
   - {fileID: 11400000, guid: d4e45832dabb54e4caba94c449a4186e, type: 2}
   - {fileID: 11400000, guid: 0506d5f1515334b98a0f6433739ab51a, type: 2}

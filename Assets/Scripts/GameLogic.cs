@@ -35,7 +35,9 @@ public class GameLogic : MonoBehaviour
         }
         if (stateChanged)
         {
-            textComponent.text = state.GetStateStory();
+            var stateStory = state.GetStateStory();
+            if (stateStory != "")
+                textComponent.text = state.GetStateStory();
         }
     }
 
